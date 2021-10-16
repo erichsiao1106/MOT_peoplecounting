@@ -13,11 +13,11 @@
 ---
 ### Demo
 ![A picture of a snapshot of the demo](https://i.imgur.com/cldZbR7.jpg)
-<img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t1.JPG" width="480" height="240" /><br>
-<img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t2.JPG" width="480" height="240" /><br>
+<img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t1.JPG" width="720" height="240" /><br>
+<img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t2.JPG" width="720" height="240" /><br>
 <img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t3.JPG" width="480" height="240" /><br>
 <img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t4.JPG" width="480" height="240" /><br>
 <img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t5.JPG" width="480" height="240" /><br>
-<img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t6.JPG" width="480" height="240" /><br>
+<img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t6.JPG" width="720" height="240" /><br>
 ---
 P.S. The jupyter notebook is just another environment for developing or testing purpose.
