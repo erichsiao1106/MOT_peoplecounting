@@ -16,7 +16,7 @@
 <img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t1.JPG" width="720" height="240" /><br>
 <img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t2.JPG" width="720" height="240" /><br>
 <img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t3.JPG" width="720" height="240" /><br>
-<img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t4.JPG" width="720" height="240" /><br>
+<img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t4.JPG" width="560" height="240" /><br>
 <img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t5.JPG" width="720" height="240" /><br>
 <img src="https://github.com/erichsiao1106/MOT_peoplecounting/blob/main/t6.JPG" width="720" height="240" /><br>
 ---
