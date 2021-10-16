@@ -13,7 +13,7 @@
 ---
 ### Demo
 ![A picture of a snapshot of the demo](https://i.imgur.com/cldZbR7.jpg)
-![A picture of a snapshot of the demo](https://github.com/erichsiao1106/squid-game_AI/blob/main/auto-take-pic.gif)
+![A picture of a snapshot of the demo](https://github.com/erichsiao1106/MOT_peoplecounting/t1.jpg)
 https://github.com/erichsiao1106/squid-game_AI/blob/main/auto-take-pic.gif
 ---
 P.S. The jupyter notebook is just another environment for developing or testing purpose.
